@@ -1,4 +1,4 @@
-![alt text](https://github.com/[adamplesca]/[JS-Calculator]/blob/[main]/calc.JPG?raw=true)
+![alt text](https://github.com/[adamplesca]/[JS-Calculator]/blob/[594b165]/calc.JPG?raw=true)
 # JS-Calculator
 
 ## Based off a non scientific calculator I own
